@@ -1,0 +1,3 @@
+/media/djalma/09BBDA931A86D9AA/paradas_de_algoritmo/sexto_semestre_pt2/Compiladores/estudo/analise_lexica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/djalma/09BBDA931A86D9AA/paradas_de_algoritmo/sexto_semestre_pt2/Compiladores/estudo/analise_lexica/cmake-build-debug/CMakeFiles/analise_lexica.dir
+/media/djalma/09BBDA931A86D9AA/paradas_de_algoritmo/sexto_semestre_pt2/Compiladores/estudo/analise_lexica/cmake-build-debug/CMakeFiles/edit_cache.dir
